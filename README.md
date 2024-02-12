@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Nishant
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantapatil3&label=Views&color=blue&style=plastic" alt="nishantapatil3" /> </p>
 
 <!--
 **nishantapatil3/nishantapatil3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
