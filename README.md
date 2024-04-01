@@ -4,9 +4,9 @@
 
 ## I'm a Developer on Cloud Native Applications!
 
-- 🔭 I’m currently working on building kubernetes applications using controllers and operators.
+- 🔭 I’m currently working on building Kubernetes applications using controllers and operators.
 - 👯 I’m looking to collaborate on MLOps and Kubernetes
-- ⚡ Fun fact: I love coffee and cars!
+- ⚡ Fun fact: I love coffee!
 - 💬 Ask me about Distributed systems and Kubernetes
 
 ### Connect with me:
