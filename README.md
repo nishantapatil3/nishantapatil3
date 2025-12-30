@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Nishant
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantapatil3&label=Views&color=blue&style=plastic" alt="nishantapatil3" /> </p>
-
 I'm a Developer on Cloud Native Applications at Outshift by Cisco. Part of Cisco's modern Cloud Native Application Platform (CNAP).
 
 ### Connect with me:
